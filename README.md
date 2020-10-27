@@ -22,7 +22,7 @@ Mean: 2.7
 
 Rating Count: 10
 
-% of 4+: 0.3
+% of 4+: 0.3 
 
 Association with Toy Story: 0.412
 
